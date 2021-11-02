@@ -1,6 +1,6 @@
 class Hamburger:
 
-  def __init__(self, condiments=[]  ):
+  def __init__(self, condiments=[]):
     self.name = "Hamburger"
     self.base_calories = 300
     self.condiments = condiments
